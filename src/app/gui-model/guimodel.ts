@@ -9,7 +9,7 @@ export class GuiModel {
 
     private _guiModel = {
         "application": {
-            "title": "Boris Kopanja Friend Tracker",
+            "title": "Kopanja Boris Friend Tracker",
             "formList": [
                 {
                     "id": "FriendForm",
